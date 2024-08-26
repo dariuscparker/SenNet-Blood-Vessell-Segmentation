@@ -23,3 +23,4 @@ The models use a **ResNet50** backbone pre-trained on ImageNet, and the loss fun
 3. Install the necessary dependencies:
    ```bash
    pip install tensorflow keras spacy nltk opencv-python-headless matplotlib
+4. Ensure to change path variables from the Kaggle paths to local paths.
